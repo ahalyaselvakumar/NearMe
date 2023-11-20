@@ -78,7 +78,7 @@ mukkudal.html
     </head>
 <body bgcolor="purple">
 <h1 align="center">
-    <font color="yellow"><b>MUKUDAL</b></font>
+    <font color="yellow"><b>THIRUNELVELI</b></font>
 </h1>
    <h3 align="center">
     <font color="white"><b>MUKUDAL</b></font>
@@ -99,10 +99,10 @@ pettai.html
     </head>
 <body bgcolor="purple">
 <h1 align="center">
-    <font color="yellow"><b>MUKUDAL</b></font>
+    <font color="yellow"><b>THIRUNELVELI</b></font>
 </h1>
    <h3 align="center">
-    <font color="white"><b>MUKUDAL</b></font>
+    <font color="white"><b>PETTAIMUKUDAL</b></font>
    </h3>
 <hr color="black" size="3">
 <p align=""justify">
